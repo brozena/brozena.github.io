@@ -11,7 +11,7 @@ Seeing is the art of cleaning up a worldview. It is the act of generating raw ma
 
 I have been thinking that certain root / causal actions can actually create a loop of suffering or a loop of healing. In other words, the consequences of what you do this moment can fundamentally alter the trajectory you are following. These trajectories may be changing slowly or rapidly.
 
-These causal actions can take place at any given moment given the right insight. This means no matter what direction we are headed presently we have the capacity to clean our way of seeing and move on to something else. The sooner we really see, the sooner we can act. ^977316
+These causal actions can take place at any given moment given the right insight. This means no matter what direction we are headed presently we have the capacity to clean our way of seeing and move on to something else. The sooner we really see, the sooner we can act.
 
 *The suffering stops growing when it is seen.*
 
