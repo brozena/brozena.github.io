@@ -1,21 +1,48 @@
 ---
 layout: page
 title: "A MacOS ADHD survival kit"
-description: "Hopefully helpful notes how I manage tendencies towards innattention and window management"
 permalink: /adhd/
 nav: false 
 ---
 
-<!-- intro late innattentive dx, interplay of time blindness and window management, describe first time with modafinil as finally being able to hear myself think, main goal of page: help dev types who are looking to externally manage attention/concentration with software supports -->
+### tl;dr -- Software that's helped manage attention the most
 
-<!-- describe strategy: maintain visual and temporal cues without adding distraction. how: timers, window management for big-picture view (and large format monitors), private & passive tracking to maintain awareness, accountability. internal link to software list (making fun of recipe sites) -->
+1. [Aerospace](https://github.com/nikitabobko/AeroSpace), for i3-style tiling window management
+2. [HazeOver](https://hazeover.com), to dim inactive windows; also plugins to similarly dim panes in [vim](https://stackoverflow.com/a/12519572), [vscode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-dimmer), [Obsidian](https://github.com/smikula/obsidian-limelight)
+3. [ActivityWatch](https://activitywatch.net), for private, passive self-monitoring
+4. [Tree Style Tabs](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) with nested [tab groups](ext+treestyletab:group?New%20Group)
 
-<!-- include tiling/dimming demo GIF without displaying personal info -->
+---
 
-<!-- dimming * tiling window management. aerospace, hazeover, iterm2/tmux/vim/obsidian panel dimming, constantly using keyboard shortcuts to adjust dimming intensity, zoom level to remind self of what's important. allow visual persistence without added distraction.-->
+### The problem: time blindness
 
-<!-- time management. activitywatch as work history/accountability, categorized browsing/window history, keep dashboard open/visible when possible. timers, mention tension between pomodoro and interruption, timers before meetings, attention-warmup timers. PM via self-hosted plane instance. -->
+I sought an ADHD diagnosis in my early 30s when I decided to pursue a PhD. This was basically a defensive maneuver. This would be a years-long commitment with very little external structure or feedback. A documented diagnosis would afford me accommodations during exams, for example. In hindsight, accommodations at this stage were much less important than just finally taking the right medication.
 
-<!-- interest/project-based tabbed browsing, include "Now" group to account for time/quick recall -->
+This page documents a few strategies to augment and protect attention in a MacOS desktop environment. Most of this aims to help with [time blindness](https://www.understood.org/en/articles/adhd-time-blindness), a particular challenge for those with ADHD. Mainly this translates to keeping a lot on screen at once -- inside applications and between them -- and then constantly cueing myself in different ways to maintain awareness of current priorities. Think of it as the sound of a metronome for musicians to practice their sense of time, but visual.
 
-<!-- standing desk on casters. affords novelty and avoids the brainrot that comes from always looking at the same thing. -->
+**If time blindness isn't really an issue for you, this post might not make very much sense.**
+
+
+### One approach: Scaffolding attention with software
+
+My approach has evolved to continually maintain awareness of priority and time in two parts: I **cue myself visually** by keeping relevant or timely stuff constantly in my field of view to avoid the ever-sharp [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve), then **cue myself temporally** by making heavy use of timers/reminders.
+
+First, I tend to keep a lot in my field of view, but not all at once. If something disappears from my sight, I can trust that I'll forget about it within seconds. So I tend not to allow things to ever disappear completely through a combination of [tiling window management](https://github.com/nikitabobko/AeroSpace) and by [dimming inactive windows](https://hazeover.com/). I tweak dimming brightness and zoom levels pretty much continuously (keyboard shortcuts speed this up) to adjust to what currently needs focus. This effectively allows things to persist visually without becoming too distracting. You'll see here that panes within my editors (Obsidian, vim, vscode, even tmux) also dim inactive panes within the application.
+
+![](/assets/img/dim.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+
+Similarly, hundreds of open tabs are nested into folders/subfolders to account for ongoing projects, interests, and -- most importantly -- time. I expand or condense these tab groups based on what's needed in the moment. I tend to keep a "Now" folder for momentary but time-pressured stuff.
+
+Second, since I know I can't trust my awareness of time passing, I make constant use of timers, reminders, and [time-blocking](https://en.wikipedia.org/wiki/Timeblocking). This is pretty straightforward: If I have an upcoming meeting, I set a timer so I know I can lose track of time without missing/rushing to the meeting. Similarly, I often set a 30 minute "warmup" timer to allow myself to first settle into something intrinsically interesting before attempting focused work. I'm mixed on pomodoro timers, since (for me) the attentional cost of returning from a short break is generally not worth the interruption. The upside to time blindness is hyperfocus, and interrupting that can be expensive.
+
+I also passively log and categorize all interactions using a self-hosted [ActivityWatch](https://activitywatch.net/) instance. This provides an accounting of work history and allows a view into recent or historic trends in browser history or application usage. I usually rely on this for feedback on on a daily or weekly basis.
+
+### A few other suggestions
+
+I use a [simple script](https://github.com/tedmiston/zero-noise) to generate brown noise through noise cancelling headphones if I'm working in a public space. I map keyboard shortcuts to start and stop this script.
+
+I notice my ability to focus wanes over time if I sit in the same position/direction for too many days. To entertain this apparent need for workspace novelty, I use a [standing desk on casters](https://www.uline.com/BL_2548/Adjustable-Height-Training-Tables?keywords=standing+desk). I mount all of my equipment to it, including a little nest in the back full of power supplies. A 20 foot power strip allows me to occasionally shift around a relatively empty room if I find myself seeking a different view.
+
+Finally, I have a 12,000 lumen [LED work lamp](https://www.harborfreight.com/12000-lumen-led-work-light-59423.html?utm_source=google&utm_medium=cpc&utm_campaign=22297021671&campaignid=22297021671&utm_content=178912877947&adsetid=178912877947&product=59423&store=877&gad_source=1&gad_campaignid=22297021671) [mounted](https://www.amazon.com/dp/B09KXZM4LJ) upward above my monitor to stave off seasonal mood fluctuations.
+
+I hope this post is helpful to you!
