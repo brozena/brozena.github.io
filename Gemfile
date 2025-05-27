@@ -17,7 +17,6 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'jekyll-pdf-embed'
-    gem 'jekyll-responsive-image'
 end
 group :other_plugins do
     gem 'httparty'

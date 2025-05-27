@@ -168,7 +168,6 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-pdf-embed
-  - jekyll-responsive-image
 
 # Sitemap settings
 defaults:
