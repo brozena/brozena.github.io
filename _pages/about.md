@@ -8,11 +8,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/graduate/phd-informatics) in the [Wellbeing and Health Innovation Lab](https://whilab.org) advised by [Dr Saeed Abdullah](https://saeedabdullah.com). **I'm interested in technical HCI for mental health**. 
+I am a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/graduate/phd-informatics) in the [Wellbeing and Health Innovation Lab](https://whilab.org) advised by [Dr Saeed Abdullah](https://saeedabdullah.com). **I'm interested in technical human-computer interaction for mental health**. 
 
-My research centers on understanding how open banking technologies can **help with the unique financial challenges faced by those living with bipolar disorder**. I'm working towards (1) creating novel assessments of financial data that model distinct changes to mood and spending behaviors, and (2) designing collaborative, timely interventions that support long-term financial wellbeing across all phases of this illness.
-
-My work is currently supported by the National Science Foundation via the Graduate Research Fellowship Program.
+My research focuses on how open banking technologies might **help with the unique financial challenges faced by those living with bipolar disorder**. My work is currently supported by the National Science Foundation via the Graduate Research Fellowship Program.
 
 <span data-nosnippet>I am a long-time advocate for mental health issues and am open about my lived experience with bipolar disorder. I founded Penn State's [Active Minds](https://www.activeminds.org) chapter back in 2010. If this sort of thing interests you, **you may want to check out my essay [Nobody Falls Halfway](/nobody-falls-halfway/)**.</span>
 

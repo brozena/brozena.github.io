@@ -15,4 +15,4 @@ I'm really enjoying reading [Ways of Seeing](https://en.wikipedia.org/wiki/Ways_
 PPS. Check out [nownownow.com](https://nownownow.com)
 
 
-*Updated April 2025*
+*Updated May 2025*

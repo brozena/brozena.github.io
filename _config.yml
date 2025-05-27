@@ -85,14 +85,14 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-#blog_name: brozena.net # blog_name will be displayed in your blog page
-#blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-#blog_description:  
-#permalink: /:title/
+blog_name:  # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: 
+permalink: /:title/
 
 # Pagination
-#pagination:
-#  enabled: false
+pagination:
+  enabled: false
 
 # Comments
 # disqus_shortname: brozena # put your disqus shortname
@@ -168,6 +168,7 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-pdf-embed
+  - jekyll-responsive-image
 
 # Sitemap settings
 defaults:
@@ -190,7 +191,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [year] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
@@ -198,7 +199,7 @@ jekyll-archives:
     year: '/:year/'
     tag: '/tag/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags:  # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

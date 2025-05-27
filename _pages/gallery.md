@@ -3,7 +3,7 @@ layout: page
 title: "Gallery"
 permalink: /gallery/
 description: People, places, music I have loved.
-nav: true
+nav: false 
 nav_order: 4
 ---
 
