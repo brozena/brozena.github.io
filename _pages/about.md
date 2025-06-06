@@ -8,7 +8,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/graduate/phd-informatics) in the [Wellbeing and Health Innovation Lab](https://whilab.org) advised by [Dr Saeed Abdullah](https://saeedabdullah.com). **I'm interested in technical human-computer interaction for mental health**. 
+I am a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/graduate/phd-informatics) in the [Wellbeing and Health Innovation Lab](https://whilab.org) advised by [Dr Saeed Abdullah](https://saeedabdullah.com). **I'm interested in technical human-computer interaction for serious mental illnesses**.
 
 My research focuses on how open banking technologies might **help with the unique financial challenges faced by those living with bipolar disorder**. My work is currently supported by the National Science Foundation via the Graduate Research Fellowship Program.
 
