@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+
+  <link rel="canonical" href="http://localhost:4000/seeing-and-suffering/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="brozena.net">
+
+  <meta property="og:site_name" content="brozena.net">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
+  <link rel="stylesheet" href="/styles.css">
+
+  
+  <meta property="og:description" content="brozena.net"/>
+  
+
+  
+  <meta property="og:title" content="Seeing and Suffering">
+  <meta property="og:type" content="article">
+  
+
+  
+
+  <meta property="og:url" content="http://localhost:4000/seeing-and-suffering/" />
+
+  
+
+  <title>
+    
+      Seeing and Suffering &mdash; brozena.net
+    
+  </title>
+</head>
+
+  <body>
+    <nav><div style="display: flex;">
+  <a class="internal-link" href="/" style=color:black;'><b>brozena.net</b></a></span>
+  <a href="https://linkedin.com/in/brozena/" title='linkedin' style='margin-left: auto;'><i class='fa-brands fa-linkedin'></i></a>
+  <a href="https://scholar.google.com/citations?user=EC9BDRAAAAAJ" title='google scholar'><i class='fa-brands fa-google-scholar'></i></a>
+  <a href="https://orcid.org/0000-0001-7621-1566" title='orcid'><i class='fa-brands fa-orcid'></i></a>
+  <a href="https://github.com/brozena/" title='github'><i class='fa-brands fa-github'></i></a>
+  <a href="mailto:jeff@brozena.net" title='email'><i class='fa-solid fa-envelope'></i></a>
+</div>
+</nav>
+    <div>
+      <main>
+        <p><em>If you are a hammer, all you see is nails.</em></p>
+
+<p>Seeing is the art of cleaning up a worldview. It is the act of generating raw material to act on. It is awareness, attitude, perspective, and sentiment. I believe to see more accurately we need to see with greater care. To see clearly we can expand our personal sphere of empathy. What we see shapes how we think and how we act. It shapes who and how we love. The more clearly we see, the better our chances of really healing ourselves and connecting to another.</p>
+
+<p>I have been thinking that certain root / causal actions can actually create a loop of suffering or a loop of healing. In other words, the consequences of what you do this moment can fundamentally alter the trajectory you are following. These trajectories may be changing slowly or rapidly.</p>
+
+<p>These causal actions can take place at any given moment given the right insight. This means no matter what direction we are headed presently we have the capacity to clean our way of seeing and move on to something else. The sooner we really see, the sooner we can act.</p>
+
+<p><em>The suffering stops growing when it is seen.</em></p>
+
+<p>As soon as we become aware of the suffering-object, its growth becomes a choice. But the longer we deny the existence of suffering the larger this object becomes. Denial lets it grow like a silent cancer. Denial is based in fear. And it eats self-respect alive.</p>
+
+<p>To create more of this raw material - to see more clearly - is to create more opportunity to slow the growth of suffering, and then to increases the chances of living a life full of meaning.</p>
+
+<p><em>Written 2012 after a poor night’s sleep.</em></p>
+
+      </main>
+      
+
+
+
+      <footer>
+</footer>
+    </div>
+    <!-- That file is not particularly elegant. This will need a refactor at some point. -->
+<style>
+  content a.internal-link {
+    border-color: #8b88e6;
+    background-color: #efefff;
+  }
+
+  #tooltip-wrapper {
+    background: white;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    font-size: 0.8em;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    opacity: 0;
+    transition: opacity 100ms;
+  }
+
+  #tooltip-wrapper:after {
+		content: "";
+		position: absolute;
+		z-index: 1;
+		bottom: 0;
+		left: 0;
+		pointer-events: none;
+		background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%);
+		width: 100%;
+		height: 75px;
+  }
+</style>
+
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+  <div id='tooltip-content'>
+  </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+  var opacityTimeout;
+  var contentTimeout;
+  var transitionDurationMs = 100;
+
+  var iframe = document.getElementById('link-preview-iframe')
+  var tooltipWrapper = document.getElementById('tooltip-wrapper')
+  var tooltipContent = document.getElementById('tooltip-content')
+
+  var linkHistories = {};
+
+  function hideTooltip() {
+    opacityTimeout = setTimeout(function() {
+      tooltipWrapper.style.opacity = 0;
+      contentTimeout = setTimeout(function() {
+        tooltipContent.innerHTML = '';
+        tooltipWrapper.style.display = 'none';
+      }, transitionDurationMs + 1);
+    }, transitionDurationMs)
+  }
+
+  function showTooltip(event) {
+    var elem = event.target;
+    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+    var top = window.pageYOffset || document.documentElement.scrollTop
+
+    if (event.target.host === window.location.host) {
+      if (!linkHistories[event.target.href]) {
+        iframe.src = event.target.href
+        iframe.onload = function() {
+          tooltipContentHtml = ''
+          tooltipContentHtml += '<div style="font-weight: bold;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
+          tooltipContentHtml += iframe.contentWindow.document.querySelector('content').innerHTML
+
+          tooltipContent.innerHTML = tooltipContentHtml
+          linkHistories[event.target.href] = tooltipContentHtml
+
+          tooltipWrapper.style.display = 'block';
+          setTimeout(function() {
+            tooltipWrapper.style.opacity = 1;
+          }, 1)
+        } 
+      } else {
+        tooltipContent.innerHTML = linkHistories[event.target.href]
+        tooltipWrapper.style.display = 'block';
+        setTimeout(function() {
+          tooltipWrapper.style.opacity = 1;
+        }, 1)
+      }
+
+
+      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+          tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+          tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+      }
+
+      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+          tooltipWrapper.style.left = "10px";
+      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+          tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+      }
+    }
+  }
+
+  function setupListeners(linkElement) {
+    linkElement.addEventListener('mouseleave', function(_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('mouseleave', function(_event) {
+      hideTooltip();
+    });
+
+    linkElement.addEventListener('touchend', function(_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('touchend', function(_event) {
+      hideTooltip();
+    });
+
+    linkElement.addEventListener('mouseenter', function(event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+      showTooltip(event);
+    });
+
+    tooltipWrapper.addEventListener('mouseenter', function(event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+    });
+  }
+
+  document.querySelectorAll('content a').forEach(setupListeners);
+</script>
+
+  </body>
+</html>
