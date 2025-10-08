@@ -38,10 +38,10 @@
   {% endif %}
 
   <title>
-    {% if page.id == "About" %}
-      {{ page.title }}
-    {% else %}
+    {% if page.url == "/" %}
       {{ site.title }}
+    {% else %}
+      {{ site.title }} - {{ page.title }}
     {% endif %}
   </title>
 </head>
