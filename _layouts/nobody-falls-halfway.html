@@ -7,6 +7,8 @@ layout: default
   <div>
     <h1>{{ page.title }}</h1>
     {{ content }}
+    {% include post_pagination.html %}
+
   </div>
 
 {% for c in site.nobody-falls-halfway %}

@@ -14,3 +14,4 @@ _includes/notes_graph.json
 # Obsidian config
 _notes/.obsidian/
 _notes/.pandoc/
+_notes/templates/

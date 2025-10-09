@@ -1,0 +1,35 @@
+---
+title: Arguing for emotion-related impulsivity as intervention target
+---
+
+
+- [[@ramirez-martinImpulsivity2020#^6c6cf1|Define impulsivity]]
+	- [[@ramirez-martinImpulsivity2020#^72e8cc|Behavioral measures of impulsivity]] are subdivided into (1) response inhibition, (2) ability to delay gratification, and (3) inattention
+	- [[@cheemaAssessing2015#^a83533|Measures of financial management competency]] have been shown to be (1) lower than control for those with BD even during euthymic states, and, (2) negatively correlated to trait impulsivity
+	- [[@elliottEmotionrelated2023#^979b47|Define risky decision-making: modulation of goal pursuit based on situational risks or costs]]
+- Link trait impulsivity to bipolar disorder via positive urgency
+	- [[@ngImpulsivity2016|Impulsivity predicts diagnosis of BD for those with lifetime mild manic symptoms]]
+	- [[@muhtadieprofile2014#^6892d9|Trait-like tendencies to act impulsively when experiencing strong positive/negative emotions have been measured using Positive Urgency and Negative Urgency scales]]
+	- [[@muhtadieprofile2014#^2355c4|Largest group difference between BD/control groups were shown in Positive Urgency effect size after controlling for anxiety disorders, impulse control disorders, lifetime history of substance use disorders]]
+		- Study design: 91 IwBD inter-episode period with 80 controls
+- Link positive/negative urgency to ERI
+	- [[@elliottEmotionrelated2023#^23ec3b|Define ERI]] as valence-free version of the Positive/Negative Urgency construct
+		- because [[@johnsonImpulsive2020|these two scales are highly correlated]]
+	- [[@johnsonEmotionRelated2018#^1f42e8|ERI in BD persists during euthymic states]]
+- Situate ERI as a potential **therapeutic target for risky decision-making (via delay discounting)**
+	- [[@elliottEmotionrelated2023#^e383de|Neuroimaging findings consistently support the idea that risky decision-making is related to ERI]]
+		- ("Three functional MRI studies have replicated a correlation of emotion-related impulsivity with increased anterior insula activation during decision-making tasks involving risk...")
+	- [[@elliottEmotionrelated2023#^d9a303|Meta-analyses have found]] a "==highly significant correlation of ERI with risky decision-making, which was small but replicated across many types of laboratory tasks==“
+		- [[@elliottEmotionrelated2023#^926f21|Iowa Gambling & Delay Discounting Tasks were correlated with ERI]]
+- Identify how ERI has been incorporated into **existing digital interventions for BD**
+	- [[@johnsonDevelopment2020|aggression]]
+	- [[@allenCognitive2025|rumination]]
+- Identify other **models for digital intervention** (i.e., ways to measure or reduce delay discounting)π
+	- [[@perssonEpisodic2023|episodic future thinking]]
+		- idea: EFT (rich/emotive/descriptive), prime/remind of this 3, 2, 1 days prior to recurring deposit and/or during delay discounting tasks, then monitor metrics of financial behavior following deposit
+- Identify potential **outcome measures**
+	- Delay Discounting
+	- [[@sobolevDigital2021|Digital Marshmallow Test]]
+	-  [Feelings Trigger Action via Three Factor Impulsivity](https://calm.berkeley.edu/self-report-measures/3-factor/)
+	- **==Changes to measures of periodic variability in financial data itself==**
+		- [Inferring psychological traits from spending categories and dynamic consumption patterns, section G2](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00281-y#Sec2)
