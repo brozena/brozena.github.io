@@ -14,7 +14,7 @@ Previously **I led the [digital transformation](https://en.wikipedia.org/wiki/Di
 
 <span data-nosnippet>I am a long-time advocate for mental health issues and am open about my lived experience with bipolar disorder. I founded Penn State's [Active Minds](https://www.activeminds.org) chapter back in 2010. If this sort of thing interests you, **you may want to check out my essay [Nobody Falls Halfway](/nobody-falls-halfway/)**.</span>
 
-I'm writing my dissertation with the garage door up --- **see [[diss|my notes]] if you're interested in following along**.
+I'm writing my dissertation with the garage door up --- **see [[diss|my notes]]** if you're interested in following along.
 
 My CV is available [here](assets/BrozenaCV.pdf).
 
