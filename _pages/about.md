@@ -36,7 +36,7 @@ Johnna Blair, **Jeff Brozena**, John Vines, Jofish Kaye, Mark Matthews, and Saee
 
 ### Vector Autoregression (VAR) of Longitudinal Sleep and Self-report Mood Data
 
-**Jeff Brozena** (2023) <br> [[arxiv](https://doi.org/10.48550/arXiv.2510.02511)]
+**Jeff Brozena** (2023) <br> [[preprint](https://doi.org/10.48550/arXiv.2510.02511)]
 
 ### Financial technologies (fintech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health
 
