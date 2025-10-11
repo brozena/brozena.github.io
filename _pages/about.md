@@ -24,7 +24,7 @@ My CV is available [here](assets/BrozenaCV.pdf).
 
 ### The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third-party Financial Data Sharing in Bipolar Disorder
 
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[paper](https://doi.org/10.31234/osf.io/syrwu_v1)]
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[preprint](https://doi.org/10.31234/osf.io/syrwu_v1)]
 
 ### Future of Money and HCI Workshop
 
