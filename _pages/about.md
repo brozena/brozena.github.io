@@ -30,6 +30,10 @@ My CV is available [here](assets/BrozenaCV.pdf).
 
 Johnna Blair, **Jeff Brozena**, John Vines, Jofish Kaye, Mark Matthews, and Saeed Abdullah. *Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems* (2025) <br> [[paper](https://doi.org/10.1145/3706599.3706711)]
 
+### The Type, Impacts, and Experiences of Peer Support for People Living With Bipolar Disorder: A Scoping Review
+
+Emma Morton, Elsy Willis, **Jeff Brozena**, Andrew Kcomt, Erin E Michalak. *Bipolar Disorders* (2025) <br> [[paper](https://doi.org/10.1111/bdi.70006)]
+
 ### Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences to Support Longitudinal Care Management
 
 **Jeff Brozena**, Johnna Blair, Thomas Richardson, Mark Matthews, Dahlia Mukherjee, Erika F. H. Saunders, Saeed Abdullah. *Proceedings of the CHI Conference on Human Factors in Computing Systems* (2024) <br> [[paper](https://doi.org/10.1145/3613904.3642645)]
