@@ -22,6 +22,19 @@ My CV is available [here](assets/BrozenaCV.pdf).
 
 ## Publications and Preprints
 
+### Evidence-based digital design: Utilizing MaxDiff findings to guide the development of financial interventions in bipolar disorder
+
+**Jeff Brozena**, Saeed Abdullah. 28th Annual Conference of the International Society for Bipolar Disorders (2026). In submission.
+
+### Eight Years of Autonomic Monitoring: An N-of-1 Longitudinal Study of Wearable-derived HRV Anomalies and Self-reported Mood Logs 
+
+**Jeff Brozena**, Saeed Abdullah, Lan Kong, Erika F.H. Saunders, Guodong Liu. 28th Annual Conference of the International Society for Bipolar Disorders (2026). In submission.
+
+### Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations 
+
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah (2026). Penn State College of Medicine Psychiatry and Behavioral Health Research Conference. <br> [poster](/assets/2026.04.09-hershey-brozena-finhealth.pdf)
+
+
 ### Configuring Money as an Interface Workshop
 
 Chris Elsden, Belen Barros Pena, Helena Lyhme, **Jeff Brozena**, Daniel Mwesigwa, Chris Speed, Jofish Kaye, and John Vines. *Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems* (2026) <br> [[paper](https://moneyasinterface.designinformatics.org/workshop_paper.pdf)]
