@@ -10,7 +10,7 @@ I'm a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/g
 
 The American Psychiatric Association (APA) considers "engaging in unrestrained buying sprees or foolish business investments" as diagnostic criteria for bipolar disorder, a chronic, episodic and serious mental illness. These criteria are among those considered by the APA to have "a high potential for painful consequences".
 
-The material impact of these consequences felt by those impacted by this illness -- including families, friends, and caregivers -- often far outlast symptomatic periods. For example, in a **[population-scale study](https://doi.org/10.1001/jamapsychiatry.2023.1179)** involving the credit histories and health records of 46,167 individuals, those with disorder type I were shown to be at a **50% greater likelihood** of declaring bankruptcy than the healthy population.
+For those impacted by this illness -- including families, friends, and caregivers -- the material impact of these consequences often far outlast symptomatic periods. For example, in a **[population-scale study](https://doi.org/10.1001/jamapsychiatry.2023.1179)** involving the credit histories and health records of 46,167 individuals, those with disorder type I were shown to be at a **50% greater likelihood** of declaring bankruptcy than the healthy population.
 
 I am working on **how financial technologies might help with these unique financial challenges** faced by those living with bipolar disorder. I believe it is worth investigating whether it is possible, acceptable, or even appropriate to involve the financial lives of this population in clinical contexts given the magnitude and severity of these challenges.
 
