@@ -12,9 +12,9 @@ The American Psychiatric Association (APA) considers "engaging in unrestrained b
 
 For those impacted by this illness -- including families, friends, and caregivers -- the material impact of these consequences often far outlast symptomatic periods. For example, in a **[population-scale study](https://doi.org/10.1001/jamapsychiatry.2023.1179)** involving the credit histories and health records of 46,167 individuals, those with disorder type I were shown to be at a **50% greater likelihood** of declaring bankruptcy than the healthy population.
 
-I am working on **how financial technologies might help with these unique financial challenges** faced by those living with bipolar disorder. I believe it is worth investigating whether it is possible, acceptable, or even appropriate to involve the financial lives of this population in clinical contexts given the magnitude and severity of these challenges.
+I am working on **how financial technologies might help with these unique financial challenges** faced by those living with bipolar disorder. I believe it is worth investigating whether it is possible, acceptable, or even appropriate to involve the financial lives of this population in clinical contexts given the magnitude and severity of these challenges. 
 
-I have explored demographic differences in privacy preferences regarding [financial data sharing with care partners](https://doi.org/10.1145/3613904.3642645) and how adverse clinical or financial life events influence individuals' acceptance of [involving trusted third parties in fintech-enabled digital interventions](https://doi.org/10.31234/osf.io/syrwu_v2).
+So far, I have explored demographic differences in privacy preferences regarding [financial data sharing with care partners](https://doi.org/10.1145/3613904.3642645). I have also documented how adverse clinical or financial life events influence individuals' acceptance of [involving trusted third parties in fintech-enabled digital interventions](https://doi.org/10.31234/osf.io/syrwu_v2). I am currently working on (1) how minimally-collected, de-identified financial data might be predictive of latent illness states, and, (2) identifying which fintech-enabled digital interventions are most preferred by this population.
 
 My work is currently supported by the National Science Foundation via the [Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program).
 
@@ -30,15 +30,15 @@ My CV is available [here](assets/BrozenaCV.pdf).
 
 ### Evidence-based digital design: Utilizing MaxDiff findings to guide the development of financial interventions in bipolar disorder
 
-**Jeff Brozena**, Saeed Abdullah. In submission.
+**Jeff Brozena**, Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
 
 ### Eight Years of Autonomic Monitoring: An N-of-1 Longitudinal Study of Wearable-derived HRV Anomalies and Self-reported Mood Logs 
 
-**Jeff Brozena**, Saeed Abdullah, Lan Kong, Erika F.H. Saunders, Guodong Liu. In submission.
+**Jeff Brozena**, Saeed Abdullah, Lan Kong, Erika F.H. Saunders, Guodong Liu. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
 
 ### Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations 
 
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. Penn State College of Medicine Psychiatry and Behavioral Health Research Conference (2026). <br> [[poster](/assets/2026.04.09-hershey-brozena-finhealth.pdf)]
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. PTo be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
 
 
 ### Configuring Money as an Interface Workshop
