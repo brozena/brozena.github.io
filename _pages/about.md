@@ -40,7 +40,7 @@ My CV is available [here](assets/BrozenaCV.pdf).
 
 ### Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations 
 
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. PTo be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
 
 
 ### Configuring Money as an Interface Workshop
