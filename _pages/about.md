@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/graduate/phd-informatics) in the [Wellbeing and Health Innovation Lab](https://whilab.org) advised by [Dr Saeed Abdullah](https://saeedabdullah.com). **I work at the intersection of digital health, mental health informatics, and financial technologies.**
+I'm a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/graduate/phd-informatics) in the [Wellbeing and Health Innovation Lab](https://whilab.org) advised by [Dr Saeed Abdullah](https://saeedabdullah.com). **I work where digital health, mental health informatics, and financial technologies meet.**
 
 My research aims to understand **how financial technologies might help** with these unique financial challenges faced by **those living with bipolar disorder**. I believe it is worth investigating whether it is possible, acceptable, or even appropriate to involve the financial lives of this population in clinical contexts given the magnitude and severity of these challenges. 
 
