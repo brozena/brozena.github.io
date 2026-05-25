@@ -24,7 +24,7 @@ Previously, I led the digital transformation of what was considered one of the c
 
 <span data-nosnippet>I am a [long-time](https://sites.psu.edu/standuppsu/jeff-brozena/) (like, 2011 long-time 👴) advocate for mental health issues and am open about living with bipolar disorder. If this sort of thing interests you, **you may want to check out my essay [Nobody Falls Halfway](/nobody-falls-halfway/)**.</span>
 
-My CV is available [here](assets/BrozenaCV.pdf).
+**My CV is available [here](assets/BrozenaCV.pdf).**
 
 <br>
 
