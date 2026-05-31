@@ -67,7 +67,7 @@ Emma Morton, Elsy Willis, **Jeff Brozena**, Andrew Kcomt, Erin E Michalak. *Bipo
 
 **Jeff Brozena** (2023) <br> [[preprint](https://doi.org/10.48550/arXiv.2510.02511)]
 
-### Financial technologies (fintech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health
+### Financial Technologies (fintech) for Mental Health: The Potential of Objective Financial Data to Better Understand the Relationships Between Financial Behavior and Mental Health
 
 Johnna Blair, **Jeff Brozena**, Mark Matthews, Thomas Richardson & Saeed Abdullah. *Frontiers in Psychiatry* (2023) <br> [[paper](https://doi.org/10.3389/fpsyt.2022.810057)]
 
