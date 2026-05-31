@@ -30,7 +30,7 @@ Previously, I led the digital transformation of what was considered one of the c
 
 ## Publications and Preprints
 
-### Evidence-based digital design: Utilizing MaxDiff findings to guide the development of financial interventions in bipolar disorder
+### Evidence-based Digital Design: Utilizing MaxDiff Findings to Guide the Development of Financial Interventions in Bipolar Disorder
 
 **Jeff Brozena**, Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
 
