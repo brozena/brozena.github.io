@@ -10,7 +10,7 @@ I'm a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/g
 
 My research aims to understand **how financial technologies might help** with these unique financial challenges faced by **those living with bipolar disorder**. I believe it is worth investigating whether it is possible, acceptable, or even appropriate to involve the financial lives of this population in clinical contexts given the magnitude and severity of these challenges. 
 
-The American Psychiatric Association (APA) considers "engaging in unrestrained buying sprees or foolish business investments" as part of the diagnostic criteria for bipolar disorder, a chronic, episodic and serious mental illness. The APA considers this to have "a high potential for painful consequences".
+The American Psychiatric Association (APA) considers "engaging in unrestrained buying sprees or foolish business investments" as part of the diagnostic criteria for bipolar disorder, a chronic, episodic and serious mental illness. The APA considers this to have "a high potential for painful consequences."
 
 For those impacted by this illness -- including families, friends, and caregivers -- these painful consequences are often quite material and last far longer than symptomatic periods. For example, in a [population-scale study](https://doi.org/10.1001/jamapsychiatry.2023.1179) analyzing the credit histories and health records of 46,167 individuals, those with bipolar disorder type I were shown to be at a **50% greater likelihood of declaring bankruptcy** than the healthy population.
 
