@@ -28,7 +28,15 @@ Previously, I led the digital transformation of what was considered one of the c
 
 <br>
 
-## Publications and Preprints
+## Selected Publications and Presentations
+
+### The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third-party Financial Data Sharing in Bipolar Disorder
+
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[preprint](https://doi.org/10.31234/osf.io/syrwu_v2)]
+
+### Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations 
+
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
 
 ### Evidence-based Digital Design: Utilizing MaxDiff Findings to Guide the Development of Financial Interventions in Bipolar Disorder
 
@@ -38,37 +46,10 @@ Previously, I led the digital transformation of what was considered one of the c
 
 **Jeff Brozena**, Saeed Abdullah, Lan Kong, Erika F.H. Saunders, Guodong Liu. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
 
-### Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations 
-
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
-
-
-### Configuring Money as an Interface Workshop
-
-Chris Elsden, Belen Barros Pena, Helena Lyhme, **Jeff Brozena**, Daniel Mwesigwa, Chris Speed, Jofish Kaye, and John Vines. *Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems* (2026) <br> [[paper](https://moneyasinterface.designinformatics.org/workshop_paper.pdf)]
-
-### The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third-party Financial Data Sharing in Bipolar Disorder
-
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[preprint](https://doi.org/10.31234/osf.io/syrwu_v2)]
-
-### Future of Money and HCI Workshop
-
-Johnna Blair, **Jeff Brozena**, John Vines, Jofish Kaye, Mark Matthews, and Saeed Abdullah. *Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems* (2025) <br> [[paper](https://doi.org/10.1145/3706599.3706711)]
-
-### The Type, Impacts, and Experiences of Peer Support for People Living With Bipolar Disorder: A Scoping Review
-
-Emma Morton, Elsy Willis, **Jeff Brozena**, Andrew Kcomt, Erin E Michalak. *Bipolar Disorders* (2025) <br> [[paper](https://doi.org/10.1111/bdi.70006)]
-
 ### Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences to Support Longitudinal Care Management
 
 **Jeff Brozena**, Johnna Blair, Thomas Richardson, Mark Matthews, Dahlia Mukherjee, Erika F. H. Saunders, Saeed Abdullah. *Proceedings of the CHI Conference on Human Factors in Computing Systems* (2024) <br> [[paper](https://doi.org/10.1145/3613904.3642645)]
 
-### Vector Autoregression (VAR) of Longitudinal Sleep and Self-report Mood Data
-
-**Jeff Brozena** (2023) <br> [[preprint](https://doi.org/10.48550/arXiv.2510.02511)]
-
 ### Financial Technologies (fintech) for Mental Health: The Potential of Objective Financial Data to Better Understand the Relationships Between Financial Behavior and Mental Health
 
 Johnna Blair, **Jeff Brozena**, Mark Matthews, Thomas Richardson & Saeed Abdullah. *Frontiers in Psychiatry* (2023) <br> [[paper](https://doi.org/10.3389/fpsyt.2022.810057)]
-
-
