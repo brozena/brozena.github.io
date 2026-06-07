@@ -16,6 +16,8 @@ For those impacted by this illness -- including families, friends, and caregiver
 
 **My goals** throughout this PhD have been **(1) to surface the common stories** surrounding this pervasive, understudied, and complex set of issues, and **(2) to collect [usable evidence](https://pubmed.ncbi.nlm.nih.gov/30272059/)** regarding how fintech-based digital health interventions might appropriately, respectfully, and privately support those individuals **who want support** in managing their financial lives in light of this condition. 
 
+These efforts can inform digital health intervention centered on the needs and wishes of individuals living with bipolar disorder and supportive of their families, friends, and caregivers: Supportive interventions for self-management and third party involvement ranging from passive to active, from early informational warnings at varied levels of granularity to urgent (self-prescribed) behavioral controls — always revocable.
+
 To this end, I have explored how individuals' **privacy preferences regarding [financial data sharing with care partners](https://doi.org/10.1145/3613904.3642645)** vary among demographic groups along with assessing the role that adverse clinical or financial life play in individuals' acceptance of **[involving trusted third parties in fintech-enabled digital interventions](https://doi.org/10.31234/osf.io/syrwu_v2)**. Currently I am investigating (1) how minimally-collected, de-identified financial data might be predictive of latent illness states, and (2) which fintech-enabled digital interventions are most preferred by this population.
 
 I am supported by the National Science Foundation via the [Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) and have received support from the [National Institute of Mental Health](https://reporter.nih.gov/project-details/10575894).
@@ -30,7 +32,7 @@ Previously, I led the digital transformation of what was considered one of the c
 
 ## Selected Publications and Presentations
 
-### The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third-party Financial Data Sharing in Bipolar Disorder
+### The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third Party Financial Data Sharing in Bipolar Disorder
 
 **Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[preprint](https://doi.org/10.31234/osf.io/syrwu_v2)]
 
