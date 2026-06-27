@@ -40,8 +40,6 @@ Previously, I led the digital transformation of what was considered one of the c
 
 **Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. 2026. Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026; Poster presented at Penn State College of Medicine Psychiatry and Behavioral Health Research Conference, Hershey, PA, April 2026. **Awarded Exemplary Graduate Student Research Poster**. <br> [poster](http://brozena.net/assets/hershey.pdf)
 
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
-
 ### Evidence-based Digital Design: Utilizing MaxDiff Findings to Guide the Development of Financial Interventions in Bipolar Disorder
 
 **Jeff Brozena**, Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026.
