@@ -8,6 +8,8 @@ redirect_from:
 
 I'm a PhD candidate at [Penn State University](https://ist.psu.edu/prospective/graduate/phd-informatics) in the [Wellbeing and Health Innovation Lab](https://whilab.org) advised by [Dr Saeed Abdullah](https://saeedabdullah.com). **I work where digital health, mental health informatics, and financial technologies meet.**
 
+**My CV is available [here](assets/BrozenaCV.pdf).**
+
 My research aims to understand **how financial technologies might help** with these unique financial challenges faced by **those living with bipolar disorder**. I believe it is worth investigating whether it is possible, acceptable, or even appropriate to involve the financial lives of this population in clinical contexts given the magnitude and severity of these challenges. 
 
 The American Psychiatric Association (APA) considers "engaging in unrestrained buying sprees or foolish business investments" as part of the diagnostic criteria for bipolar disorder, a chronic, episodic and serious mental illness. The APA considers this to have "a high potential for painful consequences."
@@ -25,8 +27,6 @@ I am supported by the National Science Foundation via the [Graduate Research Fel
 Previously, I led the digital transformation of what was considered one of the country’s largest and highest-quality closely-held Medicaid groups, Smiles 4 Keeps Pediatric Dentistry. With minimal supervision and years of close mentorship by its owner, I stewarded this unique group from paper operations to a centralized (and salable) state by integrating [OpenDental](https://www.opendental.com) in the midst of a cross-generational transfer of family leadership. 😮‍💨
 
 <span data-nosnippet>I am a [long-time](https://sites.psu.edu/standuppsu/jeff-brozena/) (like, 2011 long-time 👴) advocate for mental health issues and am open about living with bipolar disorder. If this sort of thing interests you, **you may want to check out my essay [Nobody Falls Halfway](/nobody-falls-halfway/)**.</span>
-
-**My CV is available [here](assets/BrozenaCV.pdf).**
 
 <br>
 
