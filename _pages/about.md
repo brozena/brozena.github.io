@@ -24,7 +24,7 @@ I am supported by the National Science Foundation via the [Graduate Research Fel
 
 Previously, I led the digital transformation of what was considered one of the country’s largest and highest-quality closely-held Medicaid groups, Smiles 4 Keeps Pediatric Dentistry. With minimal supervision and years of close mentorship by its owner, I stewarded this unique group from paper operations to a centralized (and salable) state by integrating [OpenDental](https://www.opendental.com) in the midst of a cross-generational transfer of family leadership. 😮‍💨
 
-<span data-nosnippet>I am a [long-time](https://sites.psu.edu/standuppsu/jeff-brozena/) (like, 2011 long-time 👴) advocate for mental health issues and am open about living with bipolar disorder. If this sort of thing interests you, **you may want to check out my essay [Nobody Falls Halfway](/nobody-falls-halfway/)**.</span>
+<span data-nosnippet>I am a [long-time](https://sites.psu.edu/standuppsu/jeff-brozena/) (👴) advocate for mental health issues and am open about living with bipolar disorder. If this sort of thing interests you, **you may want to check out my essay [Nobody Falls Halfway](/nobody-falls-halfway/)**.</span>
 
 <br>
 
