@@ -3,13 +3,19 @@ title: "Now"
 permalink: "/now/"
 ---
 
-The PhD news: Year four is underway. I'm currently recruiting for an interview/data collection study involving [money behaviors and bipolar disorder](https://whilab.org/projects/bd-finhealth.html). We're aiming to design personalized, privacy-preserving, supportive financial technologies tailored to this illness. 
+I'll be traveling to Vancouver, BC this fall to present three recent works that were accepted by the [28th Annual Conference of Bipolar Disorders](https://www.isbd.org/annual-conference/). I'll finally get to meet with [CrestBD's](https://www.crestbd.ca/) [Research Team](https://www.crestbd.ca/about/team/) after years of [collaboration](https://www.crestbd.ca/about/team/jeff-brozena/).
 
-I'll be traveling to Japan for [CHI 2025](https://chi2025.acm.org/) where I'm co-organizing a workshop [The Future of Money and HCI](https://chi2025.acm.org/for-authors/workshops/accepted-workshops/#w3).
+We'll [present](http://brozena.net/assets/hershey.pdf) our new dataset containing **67k rows of financial transaction histories, annotated with self-report mood logs.** The data, collected using open banking APIs and augmented recall/NIMH Life Chart Method Retrospective will be made available to IRB-approved researchers via the [NIMH Data Repository](https://nda.nih.gov).
 
-I'm really enjoying reading [Ways of Seeing](https://en.wikipedia.org/wiki/Ways_of_Seeing) by [John Berger](https://en.wikipedia.org/wiki/John_Berger). I'm also excited for [All Media is Training Data](https://shop.serpentinegalleries.org/products/holly-herndon-mat-dryhurst-all-media-is-training-data) by [Holly Herndon & Mat Dryhurst](https://herndondryhurst.studio/).
+More detail on other presentations is [here](/).
 
-PPS. Check out [nownownow.com](https://nownownow.com)
+In other news, **GUZHGUITREMIN** performed [Thunder Over Wind](https://www.wvia.org/podcast/artscene-with-erika-funke/2026-07-17/the-olde-stories-jason-smeltzer-mark-reinhart-july-18-2026) following a 10-year hiatus in Scranton, PA. We are Kathy Wang (guzheng, qin), Mark Reinhart (guitar), and Jason Smeltzer (theremin, eurorack). I played tabla and occasionally silenced a gong.
+
+![](/assets/albright.jpeg)
 
 
-*Updated July 2025*
+
+*Updated July 2026*
+
+PS Check out [nownownow.com](https://nownownow.com)
+
