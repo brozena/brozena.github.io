@@ -3,7 +3,7 @@ title: "Now"
 permalink: "/now/"
 ---
 
-I'll be traveling to Vancouver, BC this fall to present three recent works that were accepted by the [28th Annual Conference of Bipolar Disorders](https://www.isbd.org/annual-conference/). I'll finally get to meet with [CrestBD's](https://www.crestbd.ca/) [Research Team](https://www.crestbd.ca/about/team/) after years of [collaboration](https://www.crestbd.ca/about/team/jeff-brozena/).
+I'll be traveling to Vancouver, BC this fall to present three recent works that were accepted by the [28th Annual Conference of the International Society for Bipolar Disorders](https://www.isbd.org/annual-conference/). I'll finally get to meet with [CrestBD's](https://www.crestbd.ca/) [Research Team](https://www.crestbd.ca/about/team/) after years of [collaboration](https://www.crestbd.ca/about/team/jeff-brozena/).
 
 We'll [present](http://brozena.net/assets/hershey.pdf) our new dataset containing **67k rows of financial transaction histories, annotated with self-report mood logs.** The data, collected using open banking APIs and augmented recall/NIMH Life Chart Method Retrospective will be made available to IRB-approved researchers via the [NIMH Data Repository](https://nda.nih.gov).
 
