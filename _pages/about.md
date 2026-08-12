@@ -36,7 +36,7 @@ Previously, I led the digital transformation of what was considered one of the c
 
 ### Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations 
 
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. 2026. Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026; Poster presented at Penn State College of Medicine Psychiatry and Behavioral Health Research Conference, Hershey, PA, April 2026. **Awarded Exemplary Graduate Student Research Poster**. <br> [poster](http://brozena.net/assets/hershey.pdf)
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. 2026. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026; Poster presented at Penn State College of Medicine Psychiatry and Behavioral Health Research Conference, Hershey, PA, April 2026. **Awarded Exemplary Graduate Student Research Poster**. <br> [poster](http://brozena.net/assets/hershey.pdf)
 
 ### Evidence-based Digital Design: Utilizing MaxDiff Findings to Guide the Development of Financial Interventions in Bipolar Disorder
 
@@ -53,3 +53,16 @@ Previously, I led the digital transformation of what was considered one of the c
 ### Financial Technologies (fintech) for Mental Health: The Potential of Objective Financial Data to Better Understand the Relationships Between Financial Behavior and Mental Health
 
 Johnna Blair, **Jeff Brozena**, Mark Matthews, Thomas Richardson & Saeed Abdullah. *Frontiers in Psychiatry* (2023) <br> [[paper](https://doi.org/10.3389/fpsyt.2022.810057)]
+
+<!-- WRITING-STATS:START -->
+## Writing Stats
+
+It's dissertation season through Feb '27.
+
+**As of Aug 12, 2026:** 42 net words <br>
+**Average:** 42 net words/day (42 on 1 active days) <br>
+**Goal met:** 0/1 days at ≥ 850 words per day
+
+![GitHub-style heatmap of daily writing activity]({{ '/assets/writing-heatmap.svg' | relative_url }})
+
+<!-- WRITING-STATS:END -->
