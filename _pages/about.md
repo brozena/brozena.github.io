@@ -54,15 +54,3 @@ Previously, I led the digital transformation of what was considered one of the c
 
 Johnna Blair, **Jeff Brozena**, Mark Matthews, Thomas Richardson & Saeed Abdullah. *Frontiers in Psychiatry* (2023) <br> [[paper](https://doi.org/10.3389/fpsyt.2022.810057)]
 
-<!-- WRITING-STATS:START -->
-## Writing Stats
-
-It's dissertation season through Feb '27.
-
-**As of Aug 12, 2026:** 42 net words <br>
-**Average:** 42 net words/day (42 on 1 active days) <br>
-**Goal met:** 0/1 days at ≥ 850 words per day
-
-![GitHub-style heatmap of daily writing activity]({{ '/assets/writing-heatmap.svg' | relative_url }})
-
-<!-- WRITING-STATS:END -->
