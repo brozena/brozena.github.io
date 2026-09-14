@@ -30,7 +30,7 @@ Previously, I led the digital transformation of what was considered one of the c
 
 ## Selected Publications and Presentations
 
-### The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third Party Financial Data Sharing in Bipolar Disorder
+### Assessing Acceptance and Privacy Preferences of Third Party Financial Data Sharing in Bipolar Disorder
 
 **Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[preprint](https://doi.org/10.31234/osf.io/syrwu_v2)]
 
