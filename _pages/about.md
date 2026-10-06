@@ -32,19 +32,19 @@ Previously, I led the digital transformation of what was considered one of the c
 
 ### Assessing Acceptance and Privacy Preferences of Third Party Financial Data Sharing in Bipolar Disorder
 
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[preprint](https://doi.org/10.48550/arXiv.2610.04042)]
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Thomas Richardson, Mark Matthews, and Saeed Abdullah. In submission. <br> [[preprint](https://doi.org/10.48550/arXiv.2610.04042)] [[poster](https://doi.org/10.5281/zenodo.23114027)]
 
 ### Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations 
 
-**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. 2026. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026; Poster presented at Penn State College of Medicine Psychiatry and Behavioral Health Research Conference, Hershey, PA, April 2026. **Awarded Exemplary Graduate Student Research Poster**. <br> [[poster](https://brozena.net/assets/posters/finhealth.pdf)]
+**Jeff Brozena**, Johnna Blair, Dahlia Mukherjee, Erika F.H. Saunders, M.D., Saeed Abdullah. 2026. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026; Poster presented at Penn State College of Medicine Psychiatry and Behavioral Health Research Conference, Hershey, PA, April 2026. **Awarded Exemplary Graduate Student Research Poster**. <br> [[poster](https://doi.org/10.5281/zenodo.23114162)]
 
 ### Evidence-based Digital Design: Utilizing MaxDiff Findings to Guide the Development of Financial Interventions in Bipolar Disorder
 
-**Jeff Brozena**, Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026. <br> [[poster](https://brozena.net/assets/posters/maxdiff.pdf)]
+**Jeff Brozena**, Saeed Abdullah. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026. <br> [[poster](https://doi.org/10.5281/zenodo.23114255)]
 
 ### Eight Years of Autonomic Monitoring: An N-of-1 Longitudinal Study of Wearable-derived HRV Anomalies and Self-reported Mood Logs 
 
-**Jeff Brozena**, Saeed Abdullah, Lan Kong, Erika F.H. Saunders, Guodong Liu. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026. <br> [[poster](https://brozena.net/assets/posters/oura.pdf)]
+**Jeff Brozena**, Saeed Abdullah, Lan Kong, Erika F.H. Saunders, Guodong Liu. To be presented at the 28th Annual Conference of the International Society for Bipolar Disorders, Vancouver, Canada, September 2026. <br> [[poster](https://doi.org/10.5281/zenodo.23193986)]
 
 ### Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences to Support Longitudinal Care Management
 
